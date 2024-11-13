@@ -106,7 +106,7 @@ const PokemonList = () => {
                 />
                  
                 <button 
-                  className="btn  mt-2 mb-2 p-0 text-lg-start"cd
+                  className="btn  mt-2 mb-2 p-0 text-lg-start"
                   onClick={() => toggleImage(poke.id)}
                 >
                   Toggle image
